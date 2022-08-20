@@ -1,0 +1,17 @@
+﻿  ConstraintObject.cpp
+  Coursework Main.cpp
+D:\CSC8503\8503 Release backup - seventh edition\CSC8503\GameTech\Coursework Main.cpp(31,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  EnemyBall.cpp
+D:\CSC8503\8503 Release backup - seventh edition\CSC8503\GameTech\EnemyBall.cpp(119,108): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\CSC8503\8503 Release backup - seventh edition\CSC8503\GameTech\EnemyBall.cpp(119,61): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\CSC8503\8503 Release backup - seventh edition\CSC8503\GameTech\EnemyBall.cpp(120,140): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\CSC8503\8503 Release backup - seventh edition\CSC8503\GameTech\EnemyBall.cpp(120,80): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  GameTechRenderer.cpp
+  InvStateObject.cpp
+  PointCoins.cpp
+  StateGameObject.cpp
+  TutorialGame.cpp
+D:\CSC8503\8503 Release backup - seventh edition\CSC8503\GameTech\TutorialGame.cpp(722,64): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+D:\CSC8503\8503 Release backup - seventh edition\CSC8503\GameTech\TutorialGame.cpp(726,38): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+  GameTech.vcxproj -> D:\CSC8503\8503 Release backup - seventh edition\x64\Debug\GameTech.exe

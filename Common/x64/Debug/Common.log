@@ -1,0 +1,32 @@
+﻿  Assets.cpp
+  Camera.cpp
+  GameTimer.cpp
+  Keyboard.cpp
+  Maths.cpp
+  Matrix2.cpp
+  Matrix3.cpp
+  Matrix4.cpp
+  MeshAnimation.cpp
+  MeshGeometry.cpp
+  MeshMaterial.cpp
+D:\CSC8503\8503 Release backup - seventh edition\Common\MeshMaterial.cpp(48,44): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Mouse.cpp
+  Plane.cpp
+  Quaternion.cpp
+  RendererBase.cpp
+  ShaderBase.cpp
+  SimpleFont.cpp
+  TextureBase.cpp
+  TextureLoader.cpp
+  TextureWriter.cpp
+  正在生成代码...
+  正在编译...
+  Vector2.cpp
+  Vector3.cpp
+  Vector4.cpp
+  Win32Keyboard.cpp
+  Win32Mouse.cpp
+  Win32Window.cpp
+  Window.cpp
+  正在生成代码...
+  Common.vcxproj -> D:\CSC8503\8503 Release backup - seventh edition\x64\Debug\Common.lib
