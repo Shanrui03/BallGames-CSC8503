@@ -1,5 +1,9 @@
 # BallGames-CSC8503
 CSC8503 Project of Ball Games
+
+# Youtube Link:
+Most of the functionality is demonstrated in the following demo [video](https://youtu.be/wpxRXV3Y_FE)
+
 # Technical list
   
   
@@ -22,6 +26,7 @@ Level 1 is a display of physical and general state machine effects, containing c
 
 # Level 2
 Level 2 is a specific maze generated from a Text file which will be used as a Navigation Grid to implement the A* pathfinding function.
+<br>
 [NavigationGrid](https://github.com/Shanrui03/BallGames-CSC8503/blob/main/Assets/Data/TestGrid1.txt)
 <br>
 Players need to take control of the ball to avoid enemies in the maze and reach to the end in a given time.There are some coins in the scene, pick them up to score points. In addition, there is a special bonus ball placed somewhere in the maze, and when the player approaches it to a certain distance, they can establish a constraint with the ball and earn a lot of points at the same time.
