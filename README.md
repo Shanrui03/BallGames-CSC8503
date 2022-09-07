@@ -26,3 +26,6 @@ Level 2 is a specific maze generated from a Text file which will be used as a Na
 <br>
 Players need to take control of the ball to avoid enemies in the maze and reach to the end in a given time.There are some coins in the scene, pick them up to score points. In addition, there is a special bonus ball placed somewhere in the maze, and when the player approaches it to a certain distance, they can establish a constraint with the ball and earn a lot of points at the same time.
 ![Level2](http://m.qpic.cn/psc?/6cbda8ec-3a34-4f2c-b58e-e699fa3b5e3c/bqQfVz5yrrGYSXMvKr.cqXwA3IdMQ7s5hdO4MJd9oDSb.BsVhoqvAAmoVjp0OuoYgP07nigSEisE7Qs1ARg4kATRSjdfbpnq2QeJnsUOO0Y!/b&bo=mgRTAwAAAAADB.w!&rf=viewer_4)
+<br>
+Enemy AI is made up of a Selective Behaviour Tree. The enemy will Raycast by firing a ray forward at a fixed distance, thus simulating its field of vision. When the enemy does not "see" the player, it pursues the player by A* pathfinding. When the enemy "sees" coins, it prioritises picking up them, and when the enemy "sees" the player, it changes its pursuit from A* pathfinding to a straight-line pursuit.
+![Raycast](http://m.qpic.cn/psc?/6cbda8ec-3a34-4f2c-b58e-e699fa3b5e3c/bqQfVz5yrrGYSXMvKr.cqccaDksNrk.EPPrmiiCF7kxCyVirS4cu880q1caH2xY8fzFslc9LxGsiGq*4dC5qMuMcnNbxDjKQo4GEAfKaRYw!/b&bo=oQRJAwAAAAADB80!&rf=viewer_4)
