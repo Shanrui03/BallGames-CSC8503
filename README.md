@@ -21,4 +21,5 @@ Level 1 is a display of physical and general state machine effects, containing c
 ![Level1](http://m.qpic.cn/psc?/6cbda8ec-3a34-4f2c-b58e-e699fa3b5e3c/bqQfVz5yrrGYSXMvKr.cqRE5V8OgVFVUzMzwQ6pJ9MaxK7haahfdTKb5uojGZZVtcDSy*UhM.BLhJznNDieFgLmzOowEhh2*lJWsip5ici8!/b&bo=nARTAwAAAAADB.o!&rf=viewer_4)
 
 # Level 2
-Level 2 is a specific maze generated from a Text file which will be used as a Navigation Grid to implement the A* pathfinding function.
+Level 2 is a specific maze generated from a Text file which will be used as a Navigation Grid to implement the A* pathfinding function
+[NavigationGrid](https://github.com/Shanrui03/BallGames-CSC8503/blob/main/Assets/Data/TestGrid1.txt)
