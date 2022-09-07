@@ -17,3 +17,5 @@ CSC8503 Project of Ball Games
 
 
 # Level 1
+Level 1 is a display of physical and general state machine effects, containing collision detection and regular collision resolution between AABB, OBB, capsules, spheres and planes.Furthermore, Level 1 also demonstrates how well Raycasting detects various types of colliders and creates special colliders similar to Trigger types in Unity Engine, which can give the player special collision resolution.
+[Level1](
